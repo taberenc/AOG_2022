@@ -62,7 +62,7 @@ Full-screen/windowed : Alt+Enter
 We welcome criticism, suggestions and further involvement.
 
 Visit our project wiki at https://github.com/gegerlan/aog/wiki to get more information.
-Or, in the 2017 version, http://github.com/taberenc/aog_2017 . Still dont know hot to make a wiki.
+Or, in the 2017 version, [http://github.com/taberenc/aog_2017](https://github.com/taberenc/AOG_2022) . Still dont know hot to make a wiki.
 
 
 ## Known Issues and Workarounds
