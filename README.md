@@ -25,7 +25,7 @@ SVN : https://github.com/gegerlan/aog/trunk
 From the Nightlies one, with some improvements and retouches. Just minor changes by now.
 From the year 2017 can be downloaded here:
 
-http://github.com/taberenc/AOG_2017 
+https://github.com/taberenc/AOG_2022
 
 We've tried to upload all the necessary files in the same folders, order and names.
 We try also that everything works fine. If there is any bug (and i guess that will be) tell me. 
