@@ -69,7 +69,7 @@ Or, in the 2017 version, [http://github.com/taberenc/aog_2017](https://github.co
 ## Known Issues and Workarounds
 
 
-### Game.bat won't work, it just disappears and nothing happens.
+### Game.exe won't work, it just disappears and nothing happens.
 
 If you get an error message that "'rxdatav.exe' is not recognized as an internal or external command...", a required file is missing or corrupted.
 
