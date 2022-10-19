@@ -1,7 +1,7 @@
 # The Adventures of Garnet
 
 The Adventures of Garnet is an adult eroge game made in RPG Maker XP, created by qwerty123000.
-
+The purpose of this version is to add the updates created until july 2017 and, if is possible, add new ones with the focus on put an appropiate ending to the project (which was left unfinished), not make it grow.
 
 ## Requirements
 
@@ -10,15 +10,15 @@ The Adventures of Garnet is an adult eroge game made in RPG Maker XP, created by
 
 ## Getting the Adventures of Garnet
 
-Latest updates to the game can be downloaded from Github at http://github.com/gegerlan/aog
+Latest updates to the game can be downloaded from Github at http://github.com/taberenc/AOG_2022
 
 Nightlies : https://www.dropbox.com/sh/pq9hmtttr052xz4/QrUUfrBdE7
 
-Archived Snapshot (zip/tar) : https://github.com/gegerlan/aog/archives/master
+Archived Snapshot (zip/tar) : https://github.com/taberenc/aog_2022/archives/master
 
-Git : git://github.com/gegerlan/aog.git
+Git : old git://github.com/gegerlan/aog.git
 
-SVN : https://github.com/gegerlan/aog/trunk
+SVN : old https://github.com/gegerlan/aog/trunk
 
 
 ## Installation
@@ -42,7 +42,7 @@ Full-screen/windowed : Alt+Enter
 
 We welcome criticism, suggestions and further involvement.
 
-Visit our project wiki at https://github.com/gegerlan/aog/wiki to get more information.
+The project wiki at https://github.com/gegerlan/aog/wiki seems abandoned.
 
 
 ## Known Issues and Workarounds
@@ -88,9 +88,10 @@ This probably means that you've used the old SVN respository address for the gam
 
 Project Maintainer:
 
-Gegerlan http://github.com/gegerlan
+Now is Taberenc at http://github.com/taberenc
 
 
 General Discussions:
 
-http://www.hongfire.com/forum/showthread.php/156872-quot-Adventures-of-Garnet-quot-RPG-XP-game-over-rape
+The previous web does not longer exists. When a new one will be created will be mentioned here. 
+
