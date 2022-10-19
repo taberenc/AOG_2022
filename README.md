@@ -35,8 +35,8 @@ Collaboration is wellcome.
 
 ## Installation
 
-1. Run Game.bat to convert the source files to the required format.
-2. In the 2017 version.. i think that just download the zip, decompress it and hope that will work when execute game.exe
+In the 2022 version just download the zip, decompress it and hope that will work when execute game.exe
+To download the zip, go to code (upper right side) and click on "download zip".
 
 ## Getting Started
 
