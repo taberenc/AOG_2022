@@ -27,7 +27,7 @@ From the year 2017 can be downloaded here:
 
 https://github.com/taberenc/AOG_2022
 
-There, you go to code (green button on the upper right side) and there you pick "download zip file"
+There, you go to code (green button on the upper right side) and there you pick "download zip file".
 We've tried to upload all the necessary files in the same folders, order and names.
 We try also that everything works fine. If there is any bug (and i guess that will be) tell me. 
 Collaboration is wellcome.
@@ -35,6 +35,7 @@ Collaboration is wellcome.
 
 ## Installation
 
+You may need to install RPG Maker RTP to run the game.
 In the 2022 version just download the zip, decompress it and hope that will work when execute game.exe
 To download the zip, go to code (upper right side) and click on "download zip".
 
@@ -67,13 +68,6 @@ Or, in the 2017 version, [http://github.com/taberenc/aog_2017](https://github.co
 
 ## Known Issues and Workarounds
 
-### Game crashes at start with: 'Failed to load script' error.
-
-Run the Game.bat file. A small command window should appear and go through the source files, making them playable. 
-
-### Editor crashes at start with: 'Failed to load actor data.'
-
-Run the Editor.bat file.
 
 ### Game.bat won't work, it just disappears and nothing happens.
 
@@ -95,14 +89,6 @@ If there's an issue with button presses not being registered or getting sticky, 
 
 Leave and return to the equipment view.
 
-### The Dali baths are empty
-
-This probably means that you've used the old SVN respository address for the game. Download and replace the following files: 
-[Game\Graphics\Characters\00 (33).png](https://github.com/gegerlan/aog/raw/master/Game/Graphics/Characters/00%20%2833%29.png) 
-[Game\Graphics\Characters\00 (81).png](https://github.com/gegerlan/aog/raw/master/Game/Graphics/Characters/00%20%2881%29.png) 
-[Game\Graphics\Characters\00 (84).png](https://github.com/gegerlan/aog/raw/master/Game/Graphics/Characters/00%20%2884%29.png) 
-
-### No progression of story in Carthage
 
 ## Contact Information
 
@@ -114,4 +100,4 @@ Taberenc http://github.com/taberenc
 
 General Discussions:
 
-http://www.hongfire.com/forum/showthread.php/156872-quot-Adventures-of-Garnet-quot-RPG-XP-game-over-rape
+not specified yet. Hongfire is no longer active since 2020 or so.
