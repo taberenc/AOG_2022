@@ -1,6 +1,0 @@
-[submodule "wiki"]
-	path = wiki
-	url = git@github.com:gegerlan/aog.wiki.git
-[submodule "Assets"]
-	path = Assets
-	url = git://github.com/gegerlan/aog.git
