@@ -1,0 +1,12 @@
+ 16 save slots
+
+The original game has only 4 slos for saving games. Is the default mode given by rpgMaker.
+
+In this folder you have a modified file called scripts.rxdata. 
+Is not added with the game and left to your choice to use it because is not original. 
+The modification was added on the debug section. Was There that was added the new code.
+With it, this file will let you to have 16 save slots in game, and not only 4.
+Source of the new code: http://forum.chaos-project.com/index.php?topic=1430.0
+For make it working, change this file for the original file within the game's data folder.
+
+taber
