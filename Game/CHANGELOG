@@ -12,6 +12,13 @@ taber (burbujo32@hotmail.com) 2022-21-17
 		sex shop at Carthage (not developed yet) (maps 83, 84)
 	uploaded all the maps from the lastest version that ive got (29th june 2017), with the exception of the recently updated.
 	repaired a bug on Clairia Crystal Meadow. Once inside, the exit had some problems.
+	After creating an excel sheet about armors, weapons and shields, ive seen some things that require attention:
+		there are armors with all the states (namely chipped, torn and broken) not included in the game, while others that are included
+		lack of those states and are unfinished: iron armor, steel armor, mythril armor, latex outfit and robe of the whore dont have the
+		cuffed version of the damaged states. Others only have the basic state. Others dont even have a drawing yet.
+		So will be needed to give coherence to their prices, PDEF, MDEF, etc. and to finish their graphic side.
+		First of all ill try to end those drawings, at least for the most important equipments. After that.. the whole thing
+		should be rethinked (the relation between price and characteristics and also to include some of them on the game.
 		
 taber (burbujo32@hotmail.com) 2022-20-17
 
