@@ -1,3 +1,40 @@
+taber (burbujo32@hotmail.com) 2022-21-17
+
+	Added items on Dali shop
+	Clairia shop now is open. will send different items depending on who is the buyer.
+
+taber (burbujo32@hotmail.com) 2022-20-17
+
+	added rape on goblin boss brother, snake2, goblin, big goblin, blueaquatic1, as garnet slave and voluntary slave On
+	added sword animation on sword attack with bronze sword
+	modified enemy drops at rat, goblin, big goblin, cobold, zombie, wasp (perfume), zombie (elixir), blueaquatic1, snake2
+	
+	Changed Garnet adventurer level up curve:
+		HP: gaining by low inflation, from 250 (lvl 1) to 4000 (lvl 99)
+		SP: gaining by low inflation, from 120 (lvl 1) to 1500 (lvl 99)
+		Strenght: gaining by low inflation, from 20 (lvl 1) to 500 (lvl 99)
+	Added garnet housemaid and garnet urinal as actors
+	Changed Garnet slave level up curve: has more sp and less hp
+		has lower hp, from 120 (lvl 1) to 2500 (lvl 99)
+		has higher Max SP, 150 (lvl 1) to 2500 (lvl 99)
+		Strenght: gaining by low inflation, from 20 (lvl 1) to 450 (lvl 99)
+	Changed Garnet voluntary slave level up curve:
+		lower hp, from 200 (lvl 1) to 4000 (lvl 99)
+		has higher Max SP, 250 (lvl 1) to 5000 (lvl 99)
+		Strenght: gaining by low inflation, from 20 (lvl 1) to 500 (lvl 99)
+	Garnet housemaid 
+		Higher Hp by low inflation, from 200 (lvl 1) to 4000 (lvl 99)
+		Lower SP by low inflation, 100 (lvl 1) to 1200 (lvl 99)
+		Strenght: gaining by low inflation, from 20 (lvl 1) to 500 (lvl 99)
+	Garnet Dog
+		has higher min hp, from 200 (lvl 1) and less max, to 3000 (lvl 99)
+		has higher Max SP, 150 (lvl 1) to 2500 (lvl 99)
+		Strenght: gaining by low inflation, from 20 (lvl 1) to 300 (lvl 99)
+	Garnet Urinal
+		lower hp, from 120 (lvl 1) to less max, 2000 (lvl 99)
+		has higher Max SP, 150 (lvl 1) to 2500 (lvl 99)
+		Strenght: gaining by low inflation, from 20 (lvl 1) to 400 (lvl 99)
+
 taber (burbujo32@hotmail.com) 2022-10-19
     
     Created a new GitHub in order to make the game downloadeable and editable.
