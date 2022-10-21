@@ -27,7 +27,7 @@ From the year 2017 can be downloaded here:
 
 https://github.com/taberenc/AOG_2022
 
-There, you go to code (green button on the upper right side) and there you pick "download zip file".
+There, you go to "code" (green button on the upper right side) and there you pick "download zip file".
 We've tried to upload all the necessary files in the same folders, order and names.
 We try also that everything works fine. If there is any bug (and i guess that will be) tell me. 
 Collaboration is wellcome.
