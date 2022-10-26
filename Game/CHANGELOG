@@ -1,6 +1,23 @@
 taber (burbujo32@hotmail.com) 2022-10-26
 
 	Paramater changed on script: Garnet loses SP at a much lower speed
+	
+	from:
+	
+	pre_arousal_update
+	if @battler.sp > 0
+	time_diff = Graphics.frame_count - @arousal_ticker
+	rate = Math::PI * (1 - ( @battler.sp.to_f /  @battler.maxsp.to_f  ))
+	@battler.sp -= 0.01 + Math.sin(rate) * time_diff * 0.005
+	
+	To:
+	
+	pre_arousal_update
+	if @battler.sp > 0
+	time_diff = Graphics.frame_count - @arousal_ticker
+	rate = Math::PI * (1 - ( @battler.sp.to_f /  @battler.maxsp.to_f  ))
+	@battler.sp -= 0.001 + Math.sin(rate) * time_diff * 0.00005
+  
 
 taber (burbujo32@hotmail.com) 2022-10-24
 
