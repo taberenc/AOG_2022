@@ -2,6 +2,7 @@
 
 The Adventures of Garnet is an adult eroge game made in RPG Maker XP, created by qwerty123000.
 
+AOG 2022 corresponds to Adventures of Garnet in the latest version of 2017 plus some updates done on Autumn 2022 with the intention of finishing the game, which story was left unconcluded.
 
 ## Requirements
 
