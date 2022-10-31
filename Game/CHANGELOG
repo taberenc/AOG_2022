@@ -1,3 +1,10 @@
+taber (burbujo32@hotmail.com) 2022-10-31
+
+	Created a new map, WhiteTower. The intention is that there should be possible to buy whatever is needed to beat the final enemies. In the map there is a dock
+	area in the east. The stuff sold in Whitetower is supposed to come from there. 
+	This map has its own fog effect, along with a northern cold appearence. Some fire has been added in the outside, with some lighting effects. To do so, has been
+	created a new character for making the event that simulates the shinning of the light of the fire. Does not work very well at night, but is better than nothing.
+
 taber (burbujo32@hotmail.com) 2022-10-30
 
 	increased the size of the map to the north. Added there what will be the final castle, Helador. Within should be a
