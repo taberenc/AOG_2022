@@ -1,3 +1,12 @@
+taber (burbujo32@hotmail.com) 2022-11-01
+
+	changed the KTS (day time) 
+	from: night: 21:00pm-4:00 am; dawn: 5:00-8:00 am; day: 9:00am-17:00pm; sunset: 18:00-20:00 pm
+	to: night: 23:00pm-4:00 am; dawn: 5:00-7:00 am; day: 8:00am-19:00pm; sunset: 20:00-22:00
+	speed has also been change. The current was: 180. Recommended is 100 (nearly double from recommended),
+	so has been changed it to 150. Not so fast as it was. Still faster than recommended. Due to speed, night will
+	take a similar time, but day will be longer, and dawn and sunset shorter, as in real life.
+
 taber (burbujo32@hotmail.com) 2022-10-31
 
 	Created a new map, WhiteTower. The intention is that there should be possible to buy whatever is needed to beat the final enemies. In the map there is a dock
