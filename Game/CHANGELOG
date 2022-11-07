@@ -1,6 +1,6 @@
 taber (burbujo32@hotmail.com) 2022-11-06
 	
-	Added NPC's on the White Tower market. They should go away by night and sleep withint the tower. They sell merchandise from Avalon via a near port.
+	Added NPC's on the White Tower market. They should go away by night and sleep within the tower. They sell merchandise from Avalon via a near port.
 	Added a soldier watching the entrance to White Tower. Only merchants can acces to it. Added a soldier watching the tent. both will sleep by night.
 	Fixed an issue: voluntary slave as attribute is 087, not 455. 455 does not work. wherever is used 455 should be changed to 087
 	The place where is white tower has day night changing. Inside the tower or the tent shouldnt not change. If happens, is a bug.
