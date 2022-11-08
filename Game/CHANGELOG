@@ -100,7 +100,7 @@ taber (burbujo32@hotmail.com) 2022-10-21
 	Added tilesets of another version of rpg maker. the name of the new files begins with a number of 3 figures, which the 1st one is a 1.
 	Added a sign on Garnet's home, main room, to explain to the player which are the keys for playing the game.
 	created a clone for testing the game with different values on atk and def on the main character, npc's and several items. 
-		Can be visited here: https://github.com/taberenc/AOG_2022_StatsTest
+		Can be visited here: https://github.com/taberenc/AOG_2022_testingArea
 		(it seems that i can't create my own fork on github)
 	
 taber (burbujo32@hotmail.com) 2022-10-21
