@@ -1,3 +1,12 @@
+taber (burbujo32@hotmail.com) 2022-11-13
+
+	Added NPC's near White Tower. They move and interact differently depending on the PC state.
+	The wooden horse under Ren's house now it works. The interaction could be improved. Does not include chastity belt state, as ex.
+		Was needed to rework the sprite of the wooden horse.
+	Added a bit long event by night on white tower, when the player sneaks inside since the soldier is not on the main door. The event will
+		be different depending on the state of the PC. Is long only in Garnet Adventurer. In the rest of states is just dissmissive.
+		Could be improved, but was complex and difficult enough: several NPC's and interaction with a 3rd element, all in autorun.
+
 taber (burbujo32@hotmail.com) 2022-11-10
 
 	Created the drawing of the Pot Helmet. Not proud of it. There was a lack of picture of it and now there is no lack anymore.
