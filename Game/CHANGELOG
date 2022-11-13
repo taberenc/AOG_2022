@@ -6,6 +6,8 @@ taber (burbujo32@hotmail.com) 2022-11-13
 	Added a bit long event by night on white tower, when the player sneaks inside since the soldier is not on the main door. The event will
 		be different depending on the state of the PC. Is long only in Garnet Adventurer. In the rest of states is just dissmissive.
 		Could be improved, but was complex and difficult enough: several NPC's and interaction with a 3rd element, all in autorun.
+	Added some NPC's within White Tower (a waitress, some merchants..). Also the Ring of Intelligence and its envelope. If Garnet takes it,
+		the fact of having it (stolen) could trigger events within the tower. Vengeful events perpetrated by the merchants.
 
 taber (burbujo32@hotmail.com) 2022-11-10
 
