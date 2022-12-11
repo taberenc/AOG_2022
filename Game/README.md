@@ -20,7 +20,7 @@ Git : git://github.com/gegerlan/aog.git
 
 SVN : https://github.com/gegerlan/aog/trunk
 
-## Getting the Adventures of Garnet in this 2022 version (the newer one):
+## Getting the Adventures of Garnet in its 2022 version (the newer one):
 
 From the Nightlies one, with some improvements and retouches. Just minor changes by now.
 From the year 2017 can be downloaded here:
