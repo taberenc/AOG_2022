@@ -8,20 +8,7 @@ AOG 2022 corresponds to Adventures of Garnet in the latest version of 2017 plus 
 
 * Windows 2000 or later.
 
-
-## Getting the Adventures of Garnet
-
-Game can be downloaded from Github at http://github.com/gegerlan/aog on its 2013 version
-
-also here: Nightlies : https://www.dropbox.com/sh/pq9hmtttr052xz4/QrUUfrBdE7
-
-Archived Snapshot (zip/tar) : https://github.com/gegerlan/aog/archives/master
-
-Git : git://github.com/gegerlan/aog.git
-
-SVN : https://github.com/gegerlan/aog/trunk
-
-## Getting the Adventures of Garnet in this 2017 version (the newer one):
+## Getting the Adventures of Garnet in its 2022 version (the newer one):
 
 From the Nightlies one, with some improvements and retouches. Just minor changes by now.
 From the year 2017 can be downloaded here:
@@ -32,6 +19,22 @@ There, you go to "code" (green button on the upper right side) and there you pic
 We've tried to upload all the necessary files in the same folders, order and names.
 We try also that everything works fine. If there is any bug (and i guess that will be) tell me. 
 Collaboration is wellcome.
+
+We've tried to upload all the necessary files in the same folders, order and names.
+We try also that everything works fine. If there is any bug (and i guess that will be) tell me. 
+Collaboration is wellcome.
+
+## Getting the Adventures of Garnet (older versions)
+
+Game can be downloaded from Github at http://github.com/gegerlan/aog on its 2013 version
+
+also here: Nightlies : https://www.dropbox.com/sh/pq9hmtttr052xz4/QrUUfrBdE7
+
+Archived Snapshot (zip/tar) : https://github.com/gegerlan/aog/archives/master
+
+Git : git://github.com/gegerlan/aog.git
+
+SVN : https://github.com/gegerlan/aog/trunk
 
 
 ## Installation
