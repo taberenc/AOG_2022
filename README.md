@@ -20,10 +20,6 @@ We've tried to upload all the necessary files in the same folders, order and nam
 We try also that everything works fine. If there is any bug (and i guess that will be) tell me. 
 Collaboration is wellcome.
 
-We've tried to upload all the necessary files in the same folders, order and names.
-We try also that everything works fine. If there is any bug (and i guess that will be) tell me. 
-Collaboration is wellcome.
-
 ## Getting the Adventures of Garnet (older versions)
 
 Game can be downloaded from Github at http://github.com/gegerlan/aog on its 2013 version
