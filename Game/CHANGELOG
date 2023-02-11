@@ -1,3 +1,32 @@
+taber (burbujo32@hotmail.com) 2023-02-11
+
+	Added several maps on hell's door area until the 2nd member of the Prometheous troup. The interaction with him has not been yet implemented.
+	Added a heaven's tower that let Garnet to exit from the area using the chappel
+	Changed the interface:
+		now minimap is on the left side, no longer overlapped with the picture of Garnet on the right side
+		now the hotkeys list of choiced items is bigger, items are no longer overlapped
+		now the arrows of the column correspond to the items on the column
+	Added a portal that permit the player to go from Dali sewer's south extrem to White Tower directly
+		(would have been the secret portal used by merchants)
+	Created a few enemies with its corresponding rape scenes. Now the number of enemies reaches 51 in total.
+		PurpleMushroom is now on the game, with rape scene
+		The Goblin boss, but dead (this is a dead's area anyways), which has rape scene
+		A kind of ghost that rapes garnet called GhostRapist
+		Leviathan is now on the game, with rape scene
+		Quetzalcoatl is now on the game, not rape scene yet
+		Imp is now on the game, with rape scene
+	The rape scenes are pretty generic. They need improvement.
+	Kerberos will let Garnet exit the HellsDoor area just because she is alive and does not belong to there
+	Kerberos will let Garnet enter being a dog. Two options to enter: She fucks him -> she becomes human; she drugs him
+		then she stay as a dog. 
+	There is an NPC that will change Garnet state from adventurer, slave or dog, from any state to any state, just in exchange of fluids
+	
+	The behaivour of the enemies is a headache. They are too static and easy to avoid.
+	The script needs to be updated. In order to do so, the file system of the Gegerlan version has been recreated, but with updated versions
+		of the files. Now, the script can be accessed directly. Still not sure how this works or if will make things easier.
+	There is a testing area for trying the behaviour of the enemies. The access is on white tower area, in a tomb on the right of the map.
+		The big amount of enemies (all are there) and the big size of the map will cause lag and maybe make background music to stop.	
+
 taber (burbujo32@hotmail.com) 2023-02-04
 
 	Some bug fixing and tiny reshape of the edges of some maps to make the transitions to fit in better in the graphic sense
