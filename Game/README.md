@@ -2,7 +2,6 @@
 
 The Adventures of Garnet is an adult eroge game made in RPG Maker XP, created by qwerty123000.
 
-
 ## Requirements
 
 * Windows 2000 or later.
@@ -13,6 +12,7 @@ From the Nightlies one, with some improvements and retouches. Just minor changes
 From the year 2017 can be downloaded here:
 
 https://github.com/taberenc/AOG_2022
+or here: https://aog-2022.blogspot.com/
 
 We've tried to upload all the necessary files in the same folders, order and names.
 We try also that everything works fine. If there is any bug (and i guess that will be) tell me. 
@@ -41,6 +41,7 @@ SVN : https://github.com/gegerlan/aog/trunk
 Navigation : Arrow-keys, WASD-keys
 
 Confirm/Action/Attack : Z, Enter, K
+Confirm only: Space bar
 
 Cancel/Abort : X, F, End, Esc
 
@@ -51,6 +52,10 @@ To use magic: you should have some "energy" on the SP bar (the red one), have do
 Then you can assign a hotkey to a spell. For use it: C + number or just C when is assigned.
 
 Minimap: - key
+
+Hotkeys: Tab key
+To chose within the hotkeys: Alt+number of position.
+to execute a hotkey: V for items, C for spells
 
 Full-screen/windowed : Alt+Enter
 
@@ -106,10 +111,12 @@ This probably means that you've used the old SVN respository address for the gam
 
 Project Maintainer:
 
-Gegerlan http://github.com/gegerlan
 Taberenc http://github.com/taberenc 
-
+Gegerlan http://github.com/gegerlan
 
 General Discussions:
 
-http://www.hongfire.com/forum/showthread.php/156872-quot-Adventures-of-Garnet-quot-RPG-XP-game-over-rape
+there is a blogspot site: https://aog-2022.blogspot.com/
+A thread on f95zone :https://f95zone.to/threads/the-adventures-of-garnet-2022-v0-81.148737/#post-10096629
+There is also this old thread on undertow: https://www.undertow.club/threads/adventures-of-garnet.906/
+former forum, now disappeared: http://www.hongfire.com/forum/showthread.php/156872-quot-Adventures-of-Garnet-quot-RPG-XP-game-over-rape
