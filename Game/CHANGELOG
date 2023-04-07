@@ -1,3 +1,8 @@
+taber 2023-04-07
+
+	Fixed a bug in map 310 that made the monk at the beginning of the scene (switch helador c01) to fall in a loop. 
+	I think that is fixed now. I hope that wont affect future events with the same npc (ev014).
+
 taber (burbujo32@hotmail.com) 2023-04-05
 
 	Three minor changes:
