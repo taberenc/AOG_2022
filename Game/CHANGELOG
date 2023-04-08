@@ -1,6 +1,7 @@
 taber 2023-04-08
 
-	Door at wall castle now is linked to switch heladorC06 , as the rest of the personal in the castle.
+	Door at wall castle now is linked to switch heladorC06 , as the rest of the personal in the castle. When that switch is not active, 
+	and there are no guards, there are no door also and access is granted. the castle should be empty.
 	bug fix: the yellow ore on the orcs cave was not accessible. A 2nd yellow ore has been added in a room within those caves, 
 	along with another orc.
 
