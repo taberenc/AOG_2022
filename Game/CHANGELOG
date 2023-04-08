@@ -1,3 +1,9 @@
+taber 2023-04-08
+
+	Door at wall castle now is linked to switch heladorC06 , as the rest of the personal in the castle.
+	bug fix: the yellow ore on the orcs cave was not accessible. A 2nd yellow ore has been added in a room within those caves, 
+	along with another orc.
+
 taber 2023-04-07
 
 	Fixed a bug in map 310 that made the monk at the beginning of the scene (switch helador c01) to fall in a loop. 
