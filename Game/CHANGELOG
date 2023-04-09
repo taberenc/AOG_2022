@@ -1,6 +1,8 @@
 taber 2023-04-09
 
 	Modified map 352 (underground Dean's house) in order to give movement to the door.
+	Modified map 351 (main floor at Dean's house) in order to give moment to the curtain.
+	Created graphic 172-door3-b.png to give transparency to the other side of the curtain when it moves.
 
 Novae17 2023-04-09
 
