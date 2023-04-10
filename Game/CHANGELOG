@@ -1,3 +1,9 @@
+taber 2023-04-11
+
+	fixed a bug on map 40. After collecting orc's golden ore, the mineral left was under the table. Now is still on top of it. Also, the shining animation now is
+	active before collecting it as it is after doing it.
+	deleted a map which was on the wrong place (about a door in the underground floor on dean's house). I think that the good version was already on its place.
+
 Novae17 / taber 2023-04-10
 
 	Novae17 added boxes on clairias farm to make the PC able to jump within the field with bees and come back
