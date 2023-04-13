@@ -94,8 +94,9 @@ Leave and return to the equipment view.
 
 Project Maintainer:
 
-Gegerlan http://github.com/gegerlan
 Taberenc http://github.com/taberenc 
+Gegerlan http://github.com/gegerlan
+
 
 
 General Discussions:
