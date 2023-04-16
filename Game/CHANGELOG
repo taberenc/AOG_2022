@@ -1,3 +1,6 @@
+taber 2023-04-16
+	Fixed a bug on map 292. The faping guy was on autorun when Garnet was on dog form. Now is on action button.
+
 taber 2023-04-11
 
 	fixed a bug on map 40. After collecting orc's golden ore, the mineral left was under the table. Now is still on top of it. Also, the shining animation now is
