@@ -1,4 +1,12 @@
+taber 2023-04-17
+
+	Modified tileset 181 to make map 351, which has been added too. After have been tried it, seems that it works good enough.
+	Modified maps 325 and 349.
+	Map 351 is the entrance to wrath cercle of the purgatory. The upper (where Decaulion and Turble were) is the greed cercle of 
+	the purgatory. Upper from there is the lust circle of purgatory. The final boss will be in this wrath circle of purgatory.
+
 taber 2023-04-16
+
 	Fixed a bug on map 292. The faping guy was on autorun when Garnet was on dog form. Now is on action button.
 
 taber 2023-04-11
