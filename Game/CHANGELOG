@@ -1,3 +1,8 @@
+taber 2025/11/18
+
+Fixed a bug on Dali townhall, where the guards were walkthrought. Map 298.
+Fixed a bug on Dali Sewers, map 259, "sewer to womens bath", where the path was interrupted.
+
 taber /Novae17 2023-04-18
 
 	Maps 351 and 352 reupladed, corresponding to Dean's house and Dean's house underground.
@@ -9555,3 +9560,4 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
