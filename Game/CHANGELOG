@@ -1,5 +1,10 @@
 taber 2025/11/16
 
+The guards on top of the wall of the Carthage main door had their tiles under some of the stones of the wall.
+Changed the map 59 to fix it.
+
+taber 2025/11/16
+
 Tested the game after the merging with Novae17 files from his pull request. Was not tested before the merging.
 After the test a major bug happens, the game gives an error messsage and shut downs completly.
 So the original files before the merging are reuploaded trying to undo the merging.
@@ -9568,6 +9573,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
