@@ -1,9 +1,10 @@
 taber 2025/11/16
 
-Tested the game after the merging with Novae17 files. Was not tested before the merging. After the test a major bug has occurred and the game gives an error messsage
-and shut downs completly. So the original files before the merging are reuploaded trying to undo the merging. Dean's house maps (map 351 and map 352) will be kept.
+Tested the game after the merging with Novae17 files from his pull request. Was not tested before the merging.
+After the test a major bug happens, the game gives an error messsage and shut downs completly.
+So the original files before the merging are reuploaded trying to undo the merging.
 The related files are: maps 021, 048, 061, 104, 131, 254, 256, 257, 258, 260, 262, 266, 343. Also the rxdata basic files.
-
+Dean's house maps (map 351 and map 352) will be kept.
 
 taber 2025/11/15
 
@@ -9567,6 +9568,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
