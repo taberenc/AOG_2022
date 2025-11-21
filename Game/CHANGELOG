@@ -5,6 +5,9 @@ The test area entry has been modified
 Maps: 356, 355, 104, 269, 130
 
 Map 257 now adise the player that a broken wall can be jumped.
+Map 316, Helador Castle. A light has been put on its place.
+Maps 264 and 357 (new): in the sewer caves under Dali there is a door on a grey rock wall.
+now that door is followed by a pair of rooms with some potions and hints (for the early game).
 
 taber 2025/11/18
 
@@ -9589,6 +9592,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
