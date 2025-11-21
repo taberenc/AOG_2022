@@ -4,6 +4,8 @@ an npc in dali accept donations of pan shields and pot helmets.
 The test area entry has been modified
 Maps: 356, 355, 104, 269, 130
 
+Map 257 now adise the player that a broken wall can be jumped.
+
 taber 2025/11/18
 
 Cotton Robe was totally Over Powered. Stats needed an overhaul from a long time ago.
@@ -9587,6 +9589,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
