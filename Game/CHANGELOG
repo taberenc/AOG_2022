@@ -1,3 +1,14 @@
+taber 2025/11/29
+
+Generated a new map in the "peaceful" hell area (is some kind of purgatory, in fact). Fixed the transitions betwen maps, so when you are in the peaceful area you remain there when crossing doors.
+Also, added some animal npc's. Cats, since the rumors say that are creatures living betwen the living world and the other one,
+can talk (if required) while in the world of dead. Also they are slightly transparet, since they are there only spiritually. The For this reason they can talk,
+as they are as souls.
+
+About the search for the library books quest, an aerie purple kind of shine has been added to the places where the books are in order to help players to find them.
+until now was a really hard task that caused lots of players to get stuck. All the books except 2 have this kind of hint. the 2 that remain are the one
+in the farm (scene related) and the one in possession of a soldier in the barraks. some kind of hint will be required there too.
+
 taber 2025/11/26
 
 Generated a new area in Garnet's house where for an achievement obtained a candle is light. This should help players to see their progression.
@@ -9612,6 +9623,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
