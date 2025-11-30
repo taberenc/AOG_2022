@@ -7,6 +7,9 @@ Also the boss in the Carthage sewers it has now a bit more power and is a bit mo
 fixed a bug in the trophy room that made the "rat infestation" quest to get active or innactive with the wrong switch.
 maps modified: 279, 30, 29, 358, 146
 
+typo fixing and facial expression on underground pub dialogue with jail guard in Carthage.
+Map: 302
+
 taber 2025/11/29
 
 Generated a new map in the "peaceful" hell area (is some kind of purgatory, in fact). Fixed the transitions betwen maps, so when you are in the peaceful area you remain there when crossing doors.
@@ -9636,6 +9639,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
