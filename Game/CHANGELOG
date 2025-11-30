@@ -1,6 +1,6 @@
 taber 2025/11/30
 
-Retouched the underground of the old lay in the guild quest "rat infestation". Now there is a hint of light that makes the ladder to exit visible. and the torches there, burning, now have light.
+Retouched the underground of the old lady in the guild quest "rat infestation". Now there is a hint of light that makes the ladder to exit visible. and the torches there, burning, now have light.
 fixed a bug that made Garnet unable to sleep in her own bed due to the lack of walkthrought characteristics from the book (library books quest) beside her bed.
 fixed a bug in the Carthage sewers that made an npc who was saying Garnet to take off the necklace to put one in her instead. Fixed with code within the npc dialogue.
 Also the boss in the Carthage sewers it has now a bit more power and is a bit more visible (due to position and trousers color)
@@ -9636,6 +9636,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
