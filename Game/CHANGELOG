@@ -9,6 +9,8 @@ maps modified: 279, 30, 29, 358, 146
 
 typo fixing and facial expression on underground pub dialogue with jail guard in Carthage.
 Map: 302
+Fixed the north gate at wall castle.
+map:120
 
 taber 2025/11/29
 
@@ -9639,6 +9641,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
