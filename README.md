@@ -53,6 +53,8 @@ Spells: C + number
 To use magic: you should have some "energy" on the SP bar (the red one), have done the library quest
 Then you can assign a hotkey to a spell. For use it: C + number or just C when is assigned.
 
+Item hotkey: after assignation, V key
+
 Minimap: - key
 
 Full-screen/windowed : Alt+Enter
@@ -102,3 +104,4 @@ Gegerlan http://github.com/gegerlan
 General Discussions:
 
 not specified yet. Hongfire is no longer active since 2020 or so.
+
