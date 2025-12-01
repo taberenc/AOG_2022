@@ -1,3 +1,9 @@
+taber 2025/12/01
+
+Added 28 character sprite files for ghost npc's in hell area.
+The "greedy" part have been worked out: new npc's, fixed some dialogues.
+Maps modified: 354, 326, 325.
+
 taber 2025/11/30
 
 Retouched the underground of the old lady in the guild quest "rat infestation". Now there is a hint of light that makes the ladder to exit visible. and the torches there, burning, now have light.
@@ -9641,6 +9647,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
