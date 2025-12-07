@@ -1,3 +1,27 @@
+taber 2025/12/07
+
+Added lights in several locations / maps
+Added more graphic tiles within Dali church, along with some lighting
+Added a hint to the church scene into Keni dialogue (babysitter quest)
+Added more candles in the tropy room and a bit of classification between them by the color of the cloth
+Fixed a bug in the Old Woman candle
+Fixed a graphic bug in the "feed" the pigs from Clairia adding the three nude cgi's
+Fixed a bug in the dialogue from the dude in the keys shop in Dali NorthWest
+Pots and pans retrieved from inside houses in Dali North West now disappear when are "borrowed"
+Added NPC's in the greedy area from hell
+Added several maps in the greedy area from hell
+Added the interior of a black tower in the hell entrance
+Added the interior from the black wall in the hell area
+The tower and the wall are now connected underground. Added some enemies and a chest with some stuff inside
+Added the interior of the farmer dude in northern Dali
+A few changes in the test zone
+In Dali pig pen has been added an option to leave by teletransport in case the player gets stuck beside the pen door.
+In Dali underground, the door that connects to White Tower now has some explanation added and some graphic improvement.
+Fixed some other bugs/typo mistakes that i dont remember in this precise moment.
+The steel axe is no longer inside a chest in the early game. It had been modified and was extremly Over Powered.
+Maps modified or added: 330, 328, 360, 326, 353, 361, 354, 302, 257, 262, 001, 019, 138, 358, 283, 282, 287, 
+286, 285, 290, 298, 281, 264, 144, 143, 136, 133, 132, 066, 063, 046, 035, 018, 011, 007, 002, 355, 343, 269, 362 and 299.
+
 taber 2025/12/01
 
 Added 28 character sprite files for ghost npc's in hell area.
@@ -9647,6 +9671,7 @@ gegerlan <gegerlan2@hotmail.com>	2011-01-29
 gegerlan <gegerlan2@hotmail.com>	2011-01-29
 
     Initial commit
+
 
 
 
